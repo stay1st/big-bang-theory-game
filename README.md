@@ -18,7 +18,8 @@ option to play against you.
   $ ./game
   ```
  4. Perfect, you did it! You're all up and running. The game will pop-up with some instruction. You can press any number that is 1-5. 
-  Note: The game will allow you to play one turn before having to run the `./game` command again to play. If you do not like this, you could simply replace '0' inside of the main function
+  
+** Note: The game will allow you to play one turn before having to run the `./game` command again to play. If you do not like this, you could simply replace '0' inside of the main function
   with `main()`. Just make sure to look above the `=====` to see if you won or lost.
   
   Thank you,
