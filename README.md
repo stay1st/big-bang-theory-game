@@ -1,4 +1,4 @@
-#A game of Rock, Paper, Scissors, Lizard, Spock!
+# Rock, Paper, Scissors, Lizard, Spock!
 **I hope you enjoy the infamous serious The Big Bang Theory as I do.
 Here is a program that takes an input number from you and the computer will randomize an
 option to play against you. 
