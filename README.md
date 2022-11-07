@@ -4,7 +4,7 @@ Here is a program that takes an input number from you and the computer will rand
 option to play against you. 
 
 ## How to get started:
- > "The game of "Rock Paper Scissors Lizard Spock" was invented by a software engineer named Sam Kass, who outlined the rules and hand gestures on his website in 1998. He, however, called it "Rock Paper Scissors Spock Lizard"."
+ > "Originally, The game of "Rock Paper Scissors Lizard Spock" was invented by a software engineer named Sam Kass, who outlined the rules and hand gestures on his website in 1998. He, however, called it "Rock Paper Scissors Spock Lizard"."
  [The Lizard Spock Expansion 2008](https://m.imdb.com/title/tt1256039/trivia/?ref_=tt_ql_trv)
  
  1. Fork or download and unzip the file.
